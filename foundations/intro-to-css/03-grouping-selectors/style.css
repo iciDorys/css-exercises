@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+.button_click {
+    background-color: black;
+    color: white;
+}
+
+.button_no_click {
+    background-color: yellow;
+}
+
+.button_click, .button_no_click {
+    font-size: 28px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
